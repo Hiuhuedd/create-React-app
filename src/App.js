@@ -1,11 +1,12 @@
-
+import React from 'react'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <h2>Hello Edd</h2>
-        </header>{" "}
+
+        </header>
     </div>
   );
 }
